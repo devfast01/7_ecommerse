@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_arzan_tm.png.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/arzan_tm.png"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_side_nav_bar.xml.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_house.png.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/house.png"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/layout_movie_item.xml.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/layout/movie_item.xml"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_galerry.jpg.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/galerry.jpg"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/layout_view_holder_arzanladyslar.xml.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/layout/view_holder_arzanladyslar.xml"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_pizza_2.jpg.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/pizza_2.jpg"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/layout_main_activity.xml.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/layout/main_activity.xml"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_ic_menu_camera.xml.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_yarysa_gatnasyn.jpg.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/yarysa_gatnasyn.jpg"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_grid.png.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/grid.png"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_more.png.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/more.png"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_location_select_background.xml.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/location_select_background.xml"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_ic_menu_slideshow.xml.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/layout_activity_didar_retro.xml.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/layout/activity_didar_retro.xml"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_taze_tarif.jpg.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/taze_tarif.jpg"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_ic_baseline_search_24.xml.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_pizza_1.jpg.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/pizza_1.jpg"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_category_background.xml.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/category_background.xml"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_pin.png.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/pin.png"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable__0_gun.jpg.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/_0_gun.jpg"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_user.png.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/user.png"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_notification.png.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/notification.png"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_search_edit_bacground.xml.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/search_edit_bacground.xml"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_ic_menu_gallery.xml.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/layout_view_holder_taze_harytlar.xml.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/layout/view_holder_taze_harytlar.xml"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/menu_searchview.xml.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/menu/searchview.xml"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_hamburger.png.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/hamburger.png"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/layout_image_slider_bildirisler.xml.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/layout/image_slider_bildirisler.xml"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/layout_activity_barlag.xml.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/layout/activity_barlag.xml"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/layout_simple.xml.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/layout/simple.xml"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_pizza_3.jpg.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/pizza_3.jpg"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_add.png.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/add.png"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_shopping_cart.png.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/shopping_cart.png"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/layout_item_cars.xml.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/layout/item_cars.xml"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_seen.png.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/seen.png"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_yeri_sayla.jpg.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/yeri_sayla.jpg"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/menu_menu.xml.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/menu/menu.xml"
+    },
+    {
+        "merged": "com.example.yedi_tilsim__.app-merged_res-31:/drawable_gear.png.flat",
+        "source": "com.example.yedi_tilsim__.app-main-33:/drawable/gear.png"
+    }
+]
