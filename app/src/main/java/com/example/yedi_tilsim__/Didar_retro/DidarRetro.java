@@ -72,6 +72,7 @@ public class DidarRetro extends AppCompatActivity {
         });
     }
 
+    @SuppressLint("SetTextI18n")
     private void writeTv(String response){
 
         try {

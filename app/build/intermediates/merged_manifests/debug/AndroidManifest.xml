@@ -32,6 +32,21 @@
         android:usesCleartextTraffic="true" >
 
         <!-- <activity -->
+        <!-- android:name=".volley.volley_main" -->
+        <!-- android:exported="false" />` -->
+        <!-- <activity -->
+        <!-- android:name=".geeks_json.geeks_json" -->
+        <!-- android:exported="false" /> -->
+        <!-- <activity -->
+        <!-- android:name=".simpleJson.simple_json" -->
+        <!-- android:exported="false" /> -->
+        <!-- <activity -->
+        <!-- android:name=".demonuts.demonuts_main" -->
+        <!-- android:exported="false" /> -->
+        <!-- <activity -->
+        <!-- android:name=".GPT_json.main_page" -->
+        <!-- android:exported="false" /> -->
+        <!-- <activity -->
         <!-- android:name=".chatActivity" -->
         <!-- android:exported="false"> -->
         <!-- <meta-data -->
@@ -60,7 +75,7 @@
         <!-- android:value="" /> -->
         <!-- </activity> -->
         <activity
-            android:name="com.example.yedi_tilsim__.barlag.BarlagActivity"
+            android:name="com.example.yedi_tilsim__.demonuts.demonuts_main"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

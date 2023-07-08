@@ -11,29 +11,12 @@ import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
-import android.annotation.SuppressLint;
-import android.content.Context;
-import android.graphics.Color;
 import android.os.Bundle;
-import android.os.Handler;
-import android.util.Log;
 import android.widget.Toast;
 
 import com.example.yedi_tilsim__.Adapter.Adapter_Arzanladyslar;
-import com.example.yedi_tilsim__.Adapter.Adapter_Tazeharytlar;
-import com.example.yedi_tilsim__.Adapter.SliderAdapter_bildirisler;
 import com.example.yedi_tilsim__.Model.JSONResponse;
 import com.example.yedi_tilsim__.Model.Model_Arzanladyslar;
-import com.example.yedi_tilsim__.Model.Model_BildirislerSlider;
-import com.example.yedi_tilsim__.Model.Model_TazeHarytlar;
-import com.example.yedi_tilsim__.barlag.Adaptery;
-import com.example.yedi_tilsim__.barlag.BarlagActivity;
-import com.google.android.material.bottomnavigation.BottomNavigationView;
-import com.google.gson.JsonArray;
-import com.smarteist.autoimageslider.IndicatorView.animation.type.IndicatorAnimationType;
-import com.smarteist.autoimageslider.IndicatorView.draw.controller.DrawController;
-import com.smarteist.autoimageslider.SliderAnimations;
-import com.smarteist.autoimageslider.SliderView;
 
 import java.util.ArrayList;
 import java.util.Arrays;

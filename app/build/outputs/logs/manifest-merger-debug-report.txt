@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:2:1-63:12
-INJECTED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:2:1-63:12
-INJECTED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:2:1-63:12
-INJECTED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:2:1-63:12
+ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:2:1-78:12
+INJECTED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:2:1-78:12
+INJECTED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:2:1-78:12
+INJECTED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:2:1-78:12
 MERGED from [com.squareup.picasso:picasso:2.71828] /home/begdroid/.gradle/caches/transforms-3/df9cdc1b6e8d8c2f4c5a87763591e293/transformed/picasso-2.71828/AndroidManifest.xml:2:1-14:12
 MERGED from [com.github.smarteist:autoimageslider:1.4.0] /home/begdroid/.gradle/caches/transforms-3/69d1d5e9b1831e8ca60854816a286a3a/transformed/autoimageslider-1.4.0/AndroidManifest.xml:2:1-17:12
 MERGED from [com.github.bumptech.glide:glide:4.14.2] /home/begdroid/.gradle/caches/transforms-3/bd02d5e2e71d4f64b7943c3c9404b291/transformed/glide-4.14.2/AndroidManifest.xml:2:1-11:12
@@ -11,6 +11,7 @@ MERGED from [com.google.android.material:material:1.8.0] /home/begdroid/.gradle/
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/begdroid/.gradle/caches/transforms-3/86273e999a44ef5694f3c78a27232305/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/begdroid/.gradle/caches/transforms-3/2f74c6a694a6021050a73ccb583a854c/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat:1.6.1] /home/begdroid/.gradle/caches/transforms-3/7f32172e49657fd9946b5b5f9d929991/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.2.1] /home/begdroid/.gradle/caches/transforms-3/0def043c16ec067beaa6ca43d6430a74/transformed/volley-1.2.1/AndroidManifest.xml:2:1-7:12
 MERGED from [com.android.support:exifinterface:27.1.0] /home/begdroid/.gradle/caches/transforms-3/a924d8cd0d6402e65d01bf69df0aa91c/transformed/exifinterface-27.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /home/begdroid/.gradle/caches/transforms-3/0daeea954273c43aec11700e1ed3f7f6/transformed/gifdecoder-4.14.2/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/begdroid/.gradle/caches/transforms-3/d04c508d3506b9f855256ce4730d9bcd/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
@@ -50,27 +51,33 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /home/begdroid/.gradle/ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/begdroid/.gradle/caches/transforms-3/495a32657c94ce27aaebeee41690b082/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /home/begdroid/.gradle/caches/transforms-3/c1df7ecddc77ae6bd6f94948445f0ebf/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/begdroid/.gradle/caches/transforms-3/63ae628bc7544672488d97b4434c33ad/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:2:1-63:12
-INJECTED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:2:1-63:12
-INJECTED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:2:1-78:12
+INJECTED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:2:1-78:12
+INJECTED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:2:1-78:12
 	package
 		INJECTED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml
-		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:2:1-63:12
+		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:2:1-78:12
 		INJECTED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml
-		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:2:1-63:12
+		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:2:1-78:12
 		INJECTED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml
-		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:2:1-63:12
+		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:2:1-78:12
 		INJECTED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:5:5-7:40
+	tools:ignore
+		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:7:9-37
+	android:name
+		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:6:9-51
 application
-ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:5:5-57:19
+ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:9:5-76:19
 MERGED from [com.squareup.picasso:picasso:2.71828] /home/begdroid/.gradle/caches/transforms-3/df9cdc1b6e8d8c2f4c5a87763591e293/transformed/picasso-2.71828/AndroidManifest.xml:7:5-12:19
 MERGED from [com.squareup.picasso:picasso:2.71828] /home/begdroid/.gradle/caches/transforms-3/df9cdc1b6e8d8c2f4c5a87763591e293/transformed/picasso-2.71828/AndroidManifest.xml:7:5-12:19
 MERGED from [com.github.smarteist:autoimageslider:1.4.0] /home/begdroid/.gradle/caches/transforms-3/69d1d5e9b1831e8ca60854816a286a3a/transformed/autoimageslider-1.4.0/AndroidManifest.xml:11:5-15:19
@@ -96,53 +103,47 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/begdr
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] /home/begdroid/.gradle/caches/transforms-3/7ea36e901e7fb0ea70393b2a17af9f60/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:14:9-41
 	android:fullBackupContent
-		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:8:9-54
+		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:12:9-54
 	android:roundIcon
-		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:15:9-54
 	tools:targetApi
-		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:15:9-29
+		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:19:9-29
 	android:icon
-		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:13:9-43
 	android:allowBackup
-		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:13:9-51
+		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:17:9-51
 	android:dataExtractionRules
-		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:7:9-65
+		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:11:9-65
 	android:usesCleartextTraffic
-		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:14:9-44
-activity#com.example.yedi_tilsim__.barlag.BarlagActivity
-ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:44:9-56:20
+		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:18:9-44
+activity#com.example.yedi_tilsim__.demonuts.demonuts_main
+ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:63:9-75:20
 	android:exported
-		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:46:13-36
+		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:65:13-36
 	android:name
-		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:45:13-50
+		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:64:13-51
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:47:13-51:29
+ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:66:13-70:29
 action#android.intent.action.MAIN
-ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:48:17-69
+ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:67:17-69
 	android:name
-		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:48:25-66
+		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:67:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:50:17-77
+ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:69:17-77
 	android:name
-		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:50:27-74
+		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:69:27-74
 meta-data#android.app.lib_name
-ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:53:13-55:36
+ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:72:13-74:36
 	android:value
-		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:55:17-33
+		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:74:17-33
 	android:name
-		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:54:17-52
-uses-permission#android.permission.INTERNET
-ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:59:5-61:40
-	tools:ignore
-		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:61:9-37
-	android:name
-		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:60:9-51
+		ADDED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml:73:17-52
 uses-sdk
 INJECTED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/begdroid/AndroidStudioProjects/yedi_tilsim__/app/src/main/AndroidManifest.xml
@@ -161,6 +162,8 @@ MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/begdroid/.gradl
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/begdroid/.gradle/caches/transforms-3/2f74c6a694a6021050a73ccb583a854c/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.6.1] /home/begdroid/.gradle/caches/transforms-3/7f32172e49657fd9946b5b5f9d929991/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.6.1] /home/begdroid/.gradle/caches/transforms-3/7f32172e49657fd9946b5b5f9d929991/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.2.1] /home/begdroid/.gradle/caches/transforms-3/0def043c16ec067beaa6ca43d6430a74/transformed/volley-1.2.1/AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] /home/begdroid/.gradle/caches/transforms-3/0def043c16ec067beaa6ca43d6430a74/transformed/volley-1.2.1/AndroidManifest.xml:5:5-43
 MERGED from [com.android.support:exifinterface:27.1.0] /home/begdroid/.gradle/caches/transforms-3/a924d8cd0d6402e65d01bf69df0aa91c/transformed/exifinterface-27.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:exifinterface:27.1.0] /home/begdroid/.gradle/caches/transforms-3/a924d8cd0d6402e65d01bf69df0aa91c/transformed/exifinterface-27.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /home/begdroid/.gradle/caches/transforms-3/0daeea954273c43aec11700e1ed3f7f6/transformed/gifdecoder-4.14.2/AndroidManifest.xml:5:5-7:41
